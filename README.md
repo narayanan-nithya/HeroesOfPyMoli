@@ -1,4 +1,4 @@
-#Pandas PyMoli Data Extraction
+# HeroesOfPyMoli Data Extraction
 <p align="center">
   <img width="800" height="500" src="https://github.com/narayanan-nithya/PyMoli_Pandas/blob/master/Fantasy.png">
 </p>
