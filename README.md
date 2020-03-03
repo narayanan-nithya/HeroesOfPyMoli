@@ -12,8 +12,9 @@ This challenge details the most popular gaming amongst different age groups by d
 3. During the gender based grouping our analysis reveals that the Non disclosed gender group spent the highest amount per item as compared to the Male and Female group. The item purchase count is not significant as compared to the Male and Female groups. 
  
  
-Count	Purchase Average	Purchase Total	Average Purchase Per Person
-Gender			
+Gender	Count	Purchase Average	Purchase Total	Average Purchase Per Person
+
+		
 Female	81	    $3.17	            $256.43	      $0.12
 
 Male	  484	    $3.05	            $1,474.70	    $0.02
